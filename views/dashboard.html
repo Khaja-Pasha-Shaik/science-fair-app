@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Your Dashboard</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+  <div class="container-dash">
+    <header>
+      <nav>
+        <!-- You can add a "Logout" button here to log the user out if needed -->
+      </nav>
+    </header>
+    <main>
+        <div class="welcome-container">
+            <h1>Welcome!! use buttons to submit and view projects.</h1>
+            <button id="logout" class="logout"><strong>Logout</strong></button>
+        </div>
+      <div class="dashboard">
+        <div class="left-pane">
+          <button id="submitProjectBtn" class="dashboard-button">Submit a new project</button>
+          <button id="viewMyProjectsBtn" class="dashboard-button">View Projects List</button>
+          <button id="changeStatusButton" class="dashboard-button">Change Project Status</button>
+          <button id="viewIndividualProjectsBtn" class="dashboard-button">View Individual Projects</button>
+          <button id="projectOverviewBtn" class="dashboard-button">Project Overview</button>
+          <button id="viewMilestonesBtn" class="dashboard-button">View Group Milestones</button>
+          <button id="generateCertificate" class="dashboard-button">Certificate Generator</button>
+        </div>
+        <div class="right-pane">
+          <!-- Content of the right pane will be dynamically updated here -->
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="/js/dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "name",
+    "password": "$2b$10$RNTtK/FqrBq0FHJ1vtKNoO2Preo4Z.hDmlN2iC/jJPxDnd6oB4JCm",
+    "isAdmin": false
+  },
+  {
+    "name": "khaja pasha",
+    "password": "$2b$10$R7JWhImX8zTc/h1wdnmm6eNtAtNiV425h7Cq3ol6KEx5T5e7tWORy",
+    "isAdmin": true
+  },
+  {
+    "name": "aman",
+    "password": "$2b$10$xitywoYFU3VgomOoDkgj/.jas4dKPkRpRq170b9SGVVC1MLcEnY76",
+    "isAdmin": false
+  },
+  {
+    "name": "shakir",
+    "password": "$2b$10$bQjFxcohLTCC732X54j3quPdi4ydOFjVvkSaThpoSGWh7vVN25d6y",
+    "isAdmin": false
+  },
+  {
+    "name": "Testing1",
+    "password": "$2b$10$9xllnPW21AmeqMaDas61xOFkJms5btIhxffiKs3WexyNvofJzgIiG",
+    "isAdmin": false
+  },
+  {
+    "name": "Fazal Hussain",
+    "password": "$2b$10$33j.oIzkEPCH1RAUoeE.q.0cVhtHY.Pcblx6EEyWy0w0AQplOzOU2",
+    "isAdmin": false
+  }
+]

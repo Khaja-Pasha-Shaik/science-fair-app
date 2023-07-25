@@ -1,0 +1,138 @@
+[
+  {
+    "projectID": "SRNSF0001ST",
+    "username": "Jaffar Hussain",
+    "timestampIST": "16/7/2023, 2:12:50 pm",
+    "projectName": "Chandrayaan 3 and Major Events",
+    "projectDescription": "After the valuable lessons learned from the Chandrayaan 2 mission, ISRO has meticulously planned Chandrayaan 3 to ensure an even more successful lunar exploration venture. The mission includes significant improvements in engineering and technology to address the challenges faced during the earlier missions.One of the primary objectives of Chandrayaan 3 is to land a rover on the lunar surface, equipped with advanced instruments to analyze the composition of the regolith and search for traces of water and other elements. Additionally, the mission aims to deploy a lander that will act as a communication relay between the rover and the Earth, facilitating the transmission of valuable scientific data.",
+    "projectStatus": "COMPLETED"
+  },
+  {
+    "projectID": "SRNSF0002ST",
+    "username": "Arshiya Tarunnum",
+    "timestampIST": "16/7/2023, 2:12:50 pm",
+    "projectName": "Vitamins and their Sources",
+    "projectDescription": "What are different vitamins a human needs and where can we get them from. Explain every mom that attends the fair importance of them, what to include in their child diet to get almost all vitamins.",
+    "projectStatus": "COMPLETED"
+  },
+  {
+    "projectID": "SRNSF0003ST",
+    "username": "Fazal Hussain",
+    "timestampIST": "16/7/2023, 2:12:50 pm",
+    "projectName": "3D Glasses and their working",
+    "projectDescription": "You know those 3D glasses have another special trick? They have two special films—one is red, and the other is blue! Here's how it works with those cool films:The red film helps you see the red parts of the picture, and the blue film helps you see the blue parts of the picture. When you wear the glasses and look at a 3D movie or picture, each eye sees those red and blue colors in a special way.Remember those two lenses in the glasses? They make sure each eye sees the right color! Your brain then puts all the red and blue colors together, just like a puzzle, and ta-da! The picture comes to life in 3D!So, with those fantastic red and blue films, the 3D glasses make everything look so real and exciting. It's like stepping into a world of amazing adventures and fun surprises!Now you have super cool 3D glasses that can show you pictures like never before—popping out, coming closer, and making everything so awesome!Are you ready to put on those magical 3D glasses and go on incredible adventures, little space explorer? Get ready for an unforgettable journey into the world of 3D wonders! 🚀😎🌟",
+    "projectStatus": "COMPLETED"
+  },
+  {
+    "projectID": "SRNSF0004ST",
+    "username": "Yashfeen",
+    "timestampIST": "16/7/2023, 2:12:50 pm",
+    "projectName": "Lunar Eclipse at a Glance",
+    "projectDescription": "A lunar eclipse is a celestial event where the Earth comes between the Sun and the Moon, causing the Earth's shadow to fall on the Moon. During a lunar eclipse, the Moon may appear to turn dark or change color, often taking on a reddish hue, giving it the nickname Blood Moon. Unlike a solar eclipse, a lunar eclipse is safe to watch with the naked eye. It's a fascinating natural occurrence that reminds us of the intricate dance between the Earth, Moon, and Sun in our vast universe.Lunar eclipses can be observed from various parts of the world, making them accessible to people across different regions.",
+    "projectStatus": "COMPLETED"
+  },
+  {
+    "projectID": "SRNSF0005ST",
+    "username": "Aaliya Anum",
+    "timestampIST": "16/7/2023, 2:12:50 pm",
+    "projectName": "Computer and its parts",
+    "projectDescription": "Monitor: Displays images and videos on the screen. Keyboard: Used for typing and inputting commands. Mouse: Allows you to navigate and interact with the computer. Speaker: Produces sound and audio output. CPU: The brain of the computer, processing data and instructions.UPS: Uninterruptible Power Supply, provides backup power during outages.",
+    "projectStatus": "COMPLETED"
+  },
+  {
+    "projectID": "SRNSF0006ST",
+    "username": "Jaffar Hussain",
+    "timestampIST": "23/7/2023, 7:35:28 pm",
+    "projectName": "What caused chandrayaan 2 to Fail",
+    "projectDescription": "Preparing ... ",
+    "projectStatus": "SUBMITTED"
+  },
+  {
+    "projectID": "SRNSF0007ST",
+    "username": "Arshiya Tarunnum",
+    "timestampIST": "23/7/2023, 7:37:32 pm",
+    "projectName": "What are Nutrients. Design a diet for kids",
+    "projectDescription": "Preparing ... ",
+    "projectStatus": "SUBMITTED"
+  },
+  {
+    "projectID": "SRNSF0008ST",
+    "username": "Yashfeen",
+    "timestampIST": "23/7/2023, 7:41:53 pm",
+    "projectName": "Lunar Occurrence.",
+    "projectDescription": "Preparing ...",
+    "projectStatus": "SUBMITTED"
+  },
+  {
+    "projectID": "SRNSF0009ST",
+    "username": "Fazal Hussain",
+    "timestampIST": "23/7/2023, 7:42:16 pm",
+    "projectName": "Blue and Red Films of 3D glasses and significance",
+    "projectDescription": "Preparing ... ",
+    "projectStatus": "SUBMITTED"
+  },
+  {
+    "projectID": "SRNSF00010ST",
+    "username": "Aaliya Anum",
+    "timestampIST": "23/7/2023, 7:43:57 pm",
+    "projectName": "Difference between laptop and computer",
+    "projectDescription": "Preparing ... ",
+    "projectStatus": "SUBMITTED"
+  },
+  {
+    "projectID": "SRNSF000123456",
+    "username": "Jaffar Hussain",
+    "timestampIST": "23/7/2023, 7:44:47 pm",
+    "projectName": "mobile",
+    "projectDescription": "mobile",
+    "projectStatus": "APPROVED"
+  },
+  {
+    "projectID": "SRNSF000198",
+    "username": "Fazal Hussain",
+    "timestampIST": "25/7/2023, 12:24:50 am",
+    "projectName": "Coder",
+    "projectDescription": "In this code, jsonData represents the JSON data you provided. We access the nested JSON object \"project\" using the jsonData.project syntax and store it in the variable projectData. From projectData, we can access individual properties like \"projectID\", \"username\", etc., and use them as needed in your application.\n\nBy parsing the nested JSON object, you can access and use its properties just like you would with any other JSON object.",
+    "projectStatus": "COMPLETED"
+  },
+  {
+    "projectID": "SRNSF00011",
+    "username": "Jaffar Hussain",
+    "timestampIST": "25/7/2023, 6:23:15 pm",
+    "projectName": "Testing 1",
+    "projectDescription": "Testing 1",
+    "projectStatus": "REJECTED"
+  },
+  {
+    "projectID": "SRNSF00012",
+    "username": "Fazal Hussain",
+    "timestampIST": "25/7/2023, 6:23:32 pm",
+    "projectName": "Testing 2",
+    "projectDescription": "Testing 2",
+    "projectStatus": "APPROVED"
+  },
+  {
+    "projectID": "SRNSF00013",
+    "username": "Arshiya Tarunnum",
+    "timestampIST": "25/7/2023, 6:23:47 pm",
+    "projectName": "Testing 3",
+    "projectDescription": "Testing 3",
+    "projectStatus": "READY FOR DISPLAY"
+  },
+  {
+    "projectID": "SRNSF00014",
+    "username": "Yashfeen",
+    "timestampIST": "25/7/2023, 6:24:00 pm",
+    "projectName": "Testing 4",
+    "projectDescription": "Testing 4",
+    "projectStatus": "COMPLETED"
+  },
+  {
+    "projectID": "SRNSF00015",
+    "username": "Aaliya Anum",
+    "timestampIST": "25/7/2023, 6:24:13 pm",
+    "projectName": "Testing 5",
+    "projectDescription": "Testing 5",
+    "projectStatus": "SUBMITTED"
+  }
+]

@@ -1,0 +1,17 @@
+{
+    "name": "science-fair-app",
+    "version": "1.0.0",
+    "description": "Application for kids to submit, view, generate certificates for their projects.",
+    "main": "server/app.js",
+    "scripts": {
+      "start": "node server/app.js"
+    },
+    "author": "Khaja Pasha",
+    "license": "MIT",
+    "dependencies": {
+      "bcrypt": "^5.0.1",
+      "body-parser": "^1.19.1",
+      "express": "^4.17.1"
+    }
+  }
+  
